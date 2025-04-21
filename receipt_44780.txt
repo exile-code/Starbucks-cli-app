@@ -1,0 +1,5 @@
+Order Receipt #44780
+Customer: Nihal123
+Drink: Iced venti Mocha with soy milk
+Price: $5.0
+Estimated wait time:  3 minutes

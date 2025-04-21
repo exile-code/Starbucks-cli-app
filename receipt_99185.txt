@@ -1,0 +1,5 @@
+Order Receipt #99185
+Customer: Nihal123
+Drink: hot grande Americano with regular milk
+Price: $4.0
+Estimated wait time:  5 minutes

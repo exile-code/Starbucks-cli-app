@@ -1,0 +1,5 @@
+Order Receipt #68700
+Customer: Nihal123
+Drink: Hot venti Cortado with oat milk
+Price: $5.0
+Estimated wait time:  5 minutes
